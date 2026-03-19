@@ -1,4 +1,4 @@
-ELIGHTGYM Website
+FITNESS SPORT CENTER Website
 
 A modern and responsive gym promotional website built using React and Tailwind CSS.  
 This project was developed as part of a Web Development Internship Evaluation.
@@ -18,11 +18,11 @@ Tech Stack
 
 Features
 - Fully responsive design (mobile, tablet, desktop)
-- Light & Dark mode support 🌗
+- Light & Dark mode support 
 - Modern UI with premium styling
 - Animated sections (Framer Motion)
 - Navigation with React Router
-- Search bar (bonus feature 🔍)
+- Search bar (bonus feature)
 - Contact form with validation & success message
 - Clean and reusable component structure
 
