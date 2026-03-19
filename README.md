@@ -4,7 +4,7 @@ A modern and responsive gym promotional website built using React and Tailwind C
 This project was developed as part of a Web Development Internship Evaluation.
 
 Live Demo
-https://elightgym.netlify.app/
+https://fitnesssportcenter.netlify.app
 
 Figma Design
 https://www.figma.com/design/oy82OmUFLxZXR79MWklKTH/Untitled?node-id=0-1&t=ZbFtnKkTgYIrt8FD-1
