@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  @apply bg-white text-black dark:bg-[#0b0b0b] dark:text-white transition-colors duration-300;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #111;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4a017;
+  border-radius: 10px;
+}
+
+
+.dark ::-webkit-scrollbar-track {
+  background: #000;
+}
+
+input, textarea {
+  @apply outline-none;
+}
+
+
+button {
+  @apply transition-all duration-200;
+}
+
+
+.container {
+  @apply max-w-7xl mx-auto px-6;
+}
